@@ -4,6 +4,8 @@ The `ts-node-starter` scaffolding project is a [template repository](https://doc
 
 Using this template, you can build **standalone apps**, **libraries** and/or **CLI tools**. The `ts-node-starter` setup is configurable and comes with a lot of features included.
 
+-Test changes README!!!
+
 ## Features
 
 1. **Changelog generation** powered by [generate-changelog](https://github.com/lob/generate-changelog)
